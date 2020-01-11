@@ -63,9 +63,9 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © 2019, Built with
+          © 2019, David-Blog
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.gatsbyjs.org">Developer</a>
         </footer>
       </div>
     )

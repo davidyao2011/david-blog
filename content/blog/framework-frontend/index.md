@@ -27,4 +27,4 @@ To start, let’s take a look at the most in-demand frontend development framewo
 > salted duck eggs have a briny aroma, a gelatin-like egg white and a
 > firm-textured, round yolk that is bright orange-red in color.
 
-![Frontend Framework](./framework-frontend.jpg)
+![Frontend Framework](./fe.jpg)
