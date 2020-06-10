@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in Wellington
+        Written by <strong>{author}</strong> who lives and works in New Zealand
         building useful things.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
