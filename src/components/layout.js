@@ -2,7 +2,6 @@ import React, { Component } from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
-
 class Layout extends Component {
   render() {
     const { location, title, children } = this.props
@@ -56,16 +55,16 @@ class Layout extends Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(24),
+          maxWidth: rhythm(30),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © 2017, David-Blog
+          © 2020, David-Blog
           {` `}
-          <a href="https://www.gatsbyjs.org">Developer</a>
+          {/* <a href="https://www.gatsbyjs.org">Developer</a> */}
         </footer>
       </div>
     )
