@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Davidyao-Blog`,
+    title: `David Yao Blog`,
     author: `David Yao`,
-    description: `David Yao blog`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `David Yao Blog`,
+    siteUrl: `https://david-blogs.netlify.app/`,
     social: {
       twitter: `davidyao2011`,
     },
